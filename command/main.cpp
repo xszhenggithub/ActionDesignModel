@@ -1,8 +1,13 @@
+#include "Command.h"
+#include "Invoker.h"
 #include <iostream>
 
 using namespace std;
 
-int main() {
-    cout << "Hello, World!" << endl;
+int main(int argc, char *argv[]) {
+    Receiver *rev = new Receiver();
+    Command *cmd = new ConcreteCommand(rev);
+    Invoker *inv = new Invoker(cmd);
+    inv->Invoke();
     return 0;
 }

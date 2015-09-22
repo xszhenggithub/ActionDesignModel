@@ -3,16 +3,56 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command/Command.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command/Command.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command/Invoker.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command/Invoker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command/Receiver.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/command/Receiver.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/command/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter/Context.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter/Context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter/Interpreter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter/Interpreter.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/interpreter/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/Aggregate.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/Aggregate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/Iterator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iterator/Iterator.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iterator/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mediator/Colleage.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mediator/Colleage.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mediator/Mediator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mediator/Mediator.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mediator/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/memento/Memento.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/memento/Memento.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/memento/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/Observer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/Observer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/Subject.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer/Subject.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/observer/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/responsibility/Handle.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/responsibility/Handle.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/responsibility/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state/Context.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state/Context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state/State.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state/State.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/state/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strategy/Context.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strategy/Context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strategy/Strategy.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/strategy/Strategy.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strategy/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template/Template.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template/Template.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/template/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor/Element.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor/Element.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor/Visitor.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/visitor/Visitor.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/visitor/main.cpp" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
